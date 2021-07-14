@@ -1,0 +1,4 @@
+  File "check.py", line 2
+    print "hello"
+    ^
+IndentationError: expected an indented block
